@@ -1,0 +1,4 @@
+José;35
+Bruna;31
+Maria;85
+Henrique;35
